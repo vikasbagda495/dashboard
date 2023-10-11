@@ -1,0 +1,31 @@
+.slide-image {
+  background: url();
+}
+.slide-image .slide-text {
+  padding: 100px 0px;
+}
+.slide-image .slide-text h3 {
+  font-size: 20px;
+  color: var(--white);
+}
+.slide-image .slide-text h1 {
+  font-size: 80px;
+  padding: 15px 0px 0px;
+}
+.slide-image .slide-text p {
+  font-size: 18px;
+  width: 58%;
+  padding: 30px 0px;
+}
+.slide-image .slide-text .ser-button {
+  background: var(--brand-primary);
+  padding: 20px 50px;
+  font-size: 20px;
+  margin: 40px 0px;
+  display: inline-block;
+  color: var(--white);
+}
+.slide-image .slide-text .ser-button:hover {
+  color: var(--brand-primary);
+  background: var(--white);
+}
